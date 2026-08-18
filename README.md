@@ -5,3 +5,6 @@ Feature A was here
 Master was edited directly
 Master says: use CGS units
 Feature B says: use SI units
+
+## notes
+Learning git through hands-on pratcice, Aug 2026.
