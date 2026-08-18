@@ -1,10 +1,15 @@
-# Git practice
-testing new identity
-This is an epxerimental line
-Feature A was here
-Master was edited directly
-Master says: use CGS units
-Feature B says: use SI units
+# Git Practice
 
-## notes
-Learning git through hands-on pratcice, Aug 2026.
+A hands-on repository for learning Git fundamentals — branching, merging, 
+conflict resolution, and the GitHub pull request workflow.
+
+## What this covers
+
+- Local repo initialization and the staged/committed workflow
+- Branching and fast-forward merges
+- Resolving a real merge conflict by hand
+- Pushing branches and opening/merging a pull request on GitHub
+
+## Notes
+
+Learning Git through hands-on practice, Aug 2026.
